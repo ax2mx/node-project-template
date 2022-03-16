@@ -1,0 +1,22 @@
+{
+  "name": "project-template",
+  "version": "1.0.0",
+  "description": "Basic template for node.js projects",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ax2mx/node-project-template.git"
+  },
+  "author": "Andrei Marukhin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ax2mx/node-project-template/issues"
+  },
+  "homepage": "https://github.com/ax2mx/node-project-template#readme",
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  }
+}
