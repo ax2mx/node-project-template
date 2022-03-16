@@ -1,2 +1,2 @@
 # node-project-template
-Basic templae for node.js projects
+Basic template for node.js projects
